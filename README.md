@@ -20,5 +20,5 @@ I'm a Full Stack Developer, student of new technologies and graduated as an elec
 ![image](	https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-![image](https://img.shields.io/badge/-PHP-blue?logo=php&logoColor=white)
+![image](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
